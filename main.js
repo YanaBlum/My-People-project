@@ -1,6 +1,6 @@
 
-  const sours = $("#people-template").html()
-  const template = Handlebars.compile(sours)
+const sours = $("#people-template").html()
+const template = Handlebars.compile(sours)
 
 
 const render = function(){
@@ -18,7 +18,7 @@ const render = function(){
   });
  
 }
-
+ 
 render()
 
     
