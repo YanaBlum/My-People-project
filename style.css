@@ -1,0 +1,12 @@
+#people {
+  display: grid;
+  background-color: darkseagreen;
+  grid-template-columns: repeat(2, 1fr);
+  padding-right: 15px;
+  padding-left: 15px;
+  align-content: center;
+  font-family: 'Montserrat', sans-serif;
+  border-radius: 5px;
+  box-shadow: 1px 1px 3px black;
+
+}
